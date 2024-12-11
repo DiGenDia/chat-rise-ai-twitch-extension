@@ -1,0 +1,21 @@
+{
+  "name": "twitch-ai-integration",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "openai": "3.2.1",
+    "pg": "8.11.2",
+    "rate-limiter-flexible": "5.2.0",
+    "typeorm": "0.3.14",
+    "twitch-api-v5": "1.0.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "@types/node": "^20.4.1",
+    "jest": "29.6.2",
+    "@types/openai": "^3.2.0",
+    "@types/rate-limiter-flexible": "^5.1.0",
+    "@types/twitch-api-v5": "^1.0.0",
+    "@types/typeorm": "^0.3.13"
+  }
+}
